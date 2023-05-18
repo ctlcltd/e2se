@@ -2,7 +2,7 @@
 
 Reference repository for [e2-sat-editor](https://github.com/ctlcltd/e2-sat-editor).
 
-This is a reference repository to meet freedesktop\.org and DBus naming convention.
+This is a reference repository to meet freedesktop\.org and D-Bus naming convention.
 
 &nbsp;
 
